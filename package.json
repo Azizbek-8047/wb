@@ -1,0 +1,21 @@
+{
+    "name": "WorldBank-Task",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/i18n": "^7.2.0",
+        "swiper": "^5.4.5",
+        "vue-awesome-swiper": "^4.1.1",
+        "bootstrap": "^4.6.0",
+        "bootstrap-vue": "^2.21.2",
+        "core-js": "^3.15.1",
+        "nuxt": "^2.15.7"
+    },
+    "devDependencies": {}
+}
